@@ -9,8 +9,7 @@ clc
 % use the commented code directly below. 
 
 %cd 'Location of file example_power_data.mat'
-%load ('TID_Demand_17')
-%load ('TID_Supply')
+%load ('example_power_data.mat')
 
 % choose the data to analyze
 power_supply = TID_Supply;      % power supply data (MW)
